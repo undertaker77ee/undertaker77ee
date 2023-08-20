@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @undertaker77ee
+- 👀 I’m interested in chess, logical problems and efficiency.
+- 🌱 I’m currently learning Python, C, Java and Unix Shell Programming.
+- 💞️ I’m looking to collaborate on any projects that prove to be learning experiences. 
+- 📫 You can reach me on instagram @sid__kumar
